@@ -9,7 +9,6 @@ git checkout -b jsmith-some-great-idea
 git add
 git commit -m
 git push origin jsmith-some-great-idea
-git pull upstream jsmith-some-great-idea 
 // Open a PR // 
 ```
 
