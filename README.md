@@ -8,8 +8,8 @@ git checkout -b jsmith-some-great-idea
 // Make Changes // 
 git add
 git commit -m
-git pull upstream jsmith-some-great-idea
 git push origin jsmith-some-great-idea
+git pull upstream jsmith-some-great-idea 
 // Open a PR // 
 ```
 
