@@ -18,11 +18,13 @@ git push origin jsmith-some-great-idea
 Choose a project and issue to work on, there are plenty.  
 
 1. Fork the Repo (make a copy) 
+![Fork it](images/fork.png)
 
-2. Clone the Repo (download the copy)
+1. Clone the Repo (download the copy)
 
 Navigate to the folder where you want to save the repository. On a Linux/Mac, ls will list the contents of the folder you’re in. `cd` foldername will open up a folder you saw in the list. `cd ..` will take you up one level. `mkdir` foldername will create a new folder.
 
+![Clone it](images/clone.png)
 Once you are inside the right folder, type 
 
 ```
@@ -109,6 +111,8 @@ If you go to your repository on GitHub, you'll see a Compare & pull request bu
 This is where you let the community know I’ve made some changes and would like to add them to the project? 
 
 If the repository owner or members like what they see, they’ll merge it. Otherwise, they could make changes then merge or request for changes.
+
+![Request a Pull](images/pr.png)
 
 ## Update your Fork 
 
