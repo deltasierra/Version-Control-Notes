@@ -123,6 +123,22 @@ git pull upstream master
 git push origin master
 ```
 
+Checkout your feature branch locally and merge master back into your branch:
+```
+git checkout <feature-branch-name>
+git merge master
+```
+
+Merge any conflicts in editor if necessary:
+```
+git commit -m "Fix merge conflicts"
+```
+
+Push the changes back to your origin feature branch:
+```
+Push the changes back to your origin feature branch:
+```
+
 # Optional Things
 
 ## Incorporate changes from the integration branch 
